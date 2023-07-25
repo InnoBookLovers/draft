@@ -1,0 +1,24 @@
+{
+	"/": [
+		"src/routes/+page.ts"
+	],
+	"/blog": [
+		"src/routes/blog/+page.ts"
+	],
+	"/bookCrossing": [
+		"src/routes/bookCrossing/+page.ts"
+	],
+	"/bookCrossing/books/[id]": [],
+	"/events": [
+		"src/routes/events/+page.ts"
+	],
+	"/login": [
+		"src/routes/login/+page.ts"
+	],
+	"/logout": [
+		"src/routes/logout/+page.ts"
+	],
+	"/signup": [
+		"src/routes/signup/+page.ts"
+	]
+}
