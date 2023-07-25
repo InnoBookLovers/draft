@@ -14,9 +14,7 @@ const config = {
 			// base: dev ? '' : '/BookClub-app'
 		},
 
-		adapter: adapter({      
-      			out: 'build'
-    		})
+		adapter: adapter()
 		
 	}
 };
